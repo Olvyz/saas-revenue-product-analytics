@@ -22,7 +22,7 @@ The project consists of four dashboards, each focusing on a different area of bu
 ## Dashboards
 
 ### 1. Revenue Overview
-
+![Revenue Overview](revenue-overview.png)
 Analyzes overall revenue performance and changes over time.
 
 **Key features:**
@@ -33,7 +33,7 @@ Analyzes overall revenue performance and changes over time.
 - Cohort Analysis
 
 ### 2. Customer Analytics
-
+![Customer Analytics](customer-analytics.png)
 Explores customer activity, purchasing behavior, and revenue contribution.
 
 **Key features:**
@@ -44,7 +44,7 @@ Explores customer activity, purchasing behavior, and revenue contribution.
 - Monthly ARPPU and Paying Users Trends
 
 ### 3. Product Analytics
-
+![Product Analytics](product-analytics.png)
 Evaluates the financial performance of individual SaaS products.
 
 **Key features:**
@@ -54,7 +54,7 @@ Evaluates the financial performance of individual SaaS products.
 - Interactive Product Performance Comparisons
 
 ### 4. Location Analytics
-
+![Location Analytics](location-analytics.png)
 Examines revenue distribution and growth across geographic regions.
 
 **Key features:**
@@ -65,11 +65,11 @@ Examines revenue distribution and growth across geographic regions.
 
 ## Key Insights
 
-- Total revenue reached approximately **$1.33M** during the analyzed period.
-- The Main App and Customer Success products generated the highest total revenue.
-- The USA was the largest revenue-generating region, followed by APAC and EMEA.
-- Paying user activity increased over time, while monthly ARPPU showed a declining trend.
-- Product-level and regional analyses highlighted differences in revenue contribution and monthly growth.
+- Total revenue reached approximately **$1.33M** during the analyzed period
+- The Main App and Customer Success products generated the highest total revenue
+- The USA was the largest revenue-generating region, followed by APAC and EMEA
+- Paying user activity increased over time, while monthly ARPPU showed a declining trend
+- Product-level and regional analyses highlighted differences in revenue contribution and monthly growth
 
 ## Tools & Skills
 
