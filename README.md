@@ -1,59 +1,93 @@
-# saas-revenue-product-analytics
-Tableau project analyzing SaaS revenue, paid users, ARPPU, product performance and geographic trends
 # SaaS Revenue & Product Analytics
 
-Tableau project focused on analyzing SaaS revenue, paid users, product performance and geographic trends
+An interactive Tableau analytics project exploring SaaS business performance through revenue trends, customer behavior, product performance, and geographic analysis.
 
-🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SaaSRevenueProductAnalytics/SaaSRevenueOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
+🔗 **[Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SaaSRevenueProductAnalytics/RevenueOverview)**
 
-## Project Goal
+## Project Overview
 
-The goal of the project was to build an interactive Tableau dashboard that provides a clear overview of SaaS business performance and allows users to explore revenue across products, locations and time periods
+The objective of this project was to design and develop a set of interactive Tableau dashboards to monitor key SaaS business metrics, identify revenue trends, and support data-driven decision-making.
 
-The analysis focuses on:
+The project consists of four dashboards, each focusing on a different area of business performance.
 
-* revenue performance and monthly trends;
-* paid users and ARPPU;
-* product performance;
-* geographic revenue distribution;
-* revenue comparison across products and locations
+## Key Metrics
+
+| Metric | Value |
+|---|---|
+| Total Revenue | $1,332,835 |
+| Paying Users | 8,463 |
+| Average Revenue per Paying User (ARPPU) | $157.49 |
+| Repeat Purchase Rate | 89.91% |
 
 ## Dashboards
 
-### SaaS Revenue Overview
+### 1. Revenue Overview
 
-Provides an overview of key SaaS revenue metrics and trends
+Analyzes overall revenue performance and changes over time.
 
-![SaaS Revenue Overview](saas-revenue-overview.png)
+**Key features:**
+- Total Revenue KPI
+- Monthly Revenue Trend
+- Month-over-Month Revenue Change
+- New Monthly Recurring Revenue (New MRR)
+- Cohort Analysis
 
-### Revenue & Product Analysis
+### 2. Customer Analytics
 
-Provides a more detailed view of revenue performance across products, locations and time periods
+Explores customer activity, purchasing behavior, and revenue contribution.
 
-![Revenue & Product Analysis](revenue-product-analysis.png)
+**Key features:**
+- Paying Users KPI
+- Repeat Purchase Rate
+- Average Revenue per Paying User (ARPPU)
+- Customer Mix vs. Revenue Mix
+- Monthly ARPPU and Paying Users Trends
 
-## Tools & Technologies
+### 3. Product Analytics
 
-* Tableau
-* Data Visualization
-* Dashboard Design
-* Data Analysis
+Evaluates the financial performance of individual SaaS products.
 
-## Analysis & Features
+**Key features:**
+- Total Revenue by Product
+- Monthly Revenue by Software
+- Month-over-Month Revenue Growth by Product
+- Interactive Product Performance Comparisons
 
-* monthly revenue analysis;
-* revenue analysis by location;
-* revenue analysis by product/software;
-* paid users analysis;
-* ARPPU analysis;
-* comparison of product performance;
-* interactive dashboard exploration
+### 4. Location Analytics
+
+Examines revenue distribution and growth across geographic regions.
+
+**Key features:**
+- Monthly Revenue by Location
+- Revenue Growth MoM by Region
+- Total Revenue by Location
+- Revenue by Location and Software
+
+## Key Insights
+
+- Total revenue reached approximately **$1.33M** during the analyzed period.
+- The Main App and Customer Success products generated the highest total revenue.
+- The USA was the largest revenue-generating region, followed by APAC and EMEA.
+- Paying user activity increased over time, while monthly ARPPU showed a declining trend.
+- Product-level and regional analyses highlighted differences in revenue contribution and monthly growth.
+
+## Tools & Skills
+
+- **Tableau:** Interactive dashboards, calculated fields, table calculations, filters, and data visualization
+- **Data Analysis:** Revenue analysis, customer segmentation, product performance, and geographic analysis
+- **Business Metrics:** Revenue, ARPPU, Paying Users, Repeat Purchase Rate, New MRR, and MoM Growth
+- **Dashboard Design:** KPI reporting, trend analysis, comparative charts, and cohort visualization
 
 ## Project Files
 
-The Tableau `.twb` workbook is available in this repository
+The repository includes the Tableau workbook and dashboard screenshots.
+
+For the full interactive experience, visit the Tableau Public link above.
 
 ## Author
 
 **Olga Wyżewska**
-Data Analyst / BI Analyst
+
+Junior Data Analyst | BI Analyst
+
+[GitHub Profile](https://github.com/Olvyz)
